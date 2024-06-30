@@ -8,7 +8,7 @@
       "item": "minecraft:iron_ingot"
     },
     "X": {
-      "item": "minecraft:andesite"
+      "item": "create:brass_block"
     }
   },
   "pattern": [
